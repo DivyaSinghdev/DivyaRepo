@@ -45,7 +45,7 @@ public class ReflectionUtil {
 
             // Print separator
             for (Field field : fields) {
-                sb.append(String.format("%-28s", "----"));
+                sb.append(String.format("%-28s", "____"));
             }
             sb.append("\n");
 
